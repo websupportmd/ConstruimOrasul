@@ -4,7 +4,7 @@ post_title: Noutăți
 author: primariamea
 post_excerpt: ""
 layout: page
-permalink: https://construimorasul.md/noutati/
+permalink: https://construimorasul.md/noutate/
 published: true
 post_date: 2020-02-20 02:56:17
 ---
